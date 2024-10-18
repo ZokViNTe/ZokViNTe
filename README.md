@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZokViNTe
 - 👀 I’m interested in code and life
 - 🌱 I’m currently learning Software engineer
-- 💞️ I’m looking to collaborate on ####
 - 📫 How to reach me at FB 
 
 <!---
