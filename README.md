@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ZokViNTe
 - 👀 I’m interested in code and life
 - 🌱 I’m currently learning Software engineer
-- 📫 How to reach me at FB 
+- 📫 How to reach me at FB: https://www.facebook.com/MinhTuyen.mzit
+- 
 
 <!---
 ZokViNTe/ZokViNTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
